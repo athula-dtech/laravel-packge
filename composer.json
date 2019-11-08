@@ -2,6 +2,8 @@
     "name": "athula/press",
     "description": "An elegant markdown-powered blog for the Laravel framework.",
     "license": "MIT",
+    "minimum-stability": "dev",
+      "prefer-stable": true,
     "authors": [
         {
             "name": "athula",
